@@ -1,21 +1,25 @@
-<<<<<<< HEAD
-# countries-api
-countries api data
-=======
-# country
+# Country List Flutter App
 
-A new Flutter project.
+A Flutter application that fetches and displays a list of countries with their details, including flags, names, currency, and region.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetches country data from a remote API.
+- Displays country flags using a grid layout.
+- Sorts countries alphabetically or by region.
+- Provides an interactive image viewer for country flags.
 
-A few resources to get you started if this is your first Flutter project:
+## Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 942dd41 (init)
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Prathaplee/countries-api.git
